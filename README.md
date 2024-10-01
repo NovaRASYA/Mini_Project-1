@@ -10,3 +10,5 @@ Program ini merupakan program yang dapat digunakan untuk menghitung diskon dari 
 ![Screenshot 2024-10-01 111151](https://github.com/user-attachments/assets/7621efd1-7a6b-4378-b4c2-a1a48b7041d8)
 
 ***Cara Kerja Program***
+![Screenshot 2024-09-30 232808](https://github.com/user-attachments/assets/51e63c7e-6b9f-4dfe-9425-9a40710a6fa6)
+
