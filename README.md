@@ -7,3 +7,6 @@ Kelas : Sistem Informasi-C
 Program ini merupakan program yang dapat digunakan untuk menghitung diskon dari harga total yang telah di tetapkan yaitu 250.000
 
 ***Flowchart***
+![Screenshot 2024-10-01 111151](https://github.com/user-attachments/assets/7621efd1-7a6b-4378-b4c2-a1a48b7041d8)
+
+***Cara Kerja Program***
